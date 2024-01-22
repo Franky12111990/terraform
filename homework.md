@@ -26,6 +26,8 @@
 
 коммиты, в которых была изменена функция globalPluginDirs
 ![Alt text](image-8.png)
+![Alt text](image-10.png)
+
 
 автор функции synchronizedWriters James Bardin
 ![Alt text](image-9.png)
