@@ -34,3 +34,6 @@
 
 автор функции synchronizedWriters:  James Bardin <j.bardin@gmail.com>
 6. ![Alt text](image-7.png)
+
+
+еще раз перепроверил третий пункт, выже видите, что нет. Команду ввожу туже, которую вы мне прислали.
